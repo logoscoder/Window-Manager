@@ -13,6 +13,8 @@ Altere o arquivo *core.js*:
 ```
 
 Execução:
+[Demonstração](https://logoscoder.github.io/wm-example/)
+
 ![Demonstração](demonstracao.png)
 
 ### Autor
