@@ -12,7 +12,7 @@ Altere o arquivo *core.js*:
   wm.show();
 ```
 
-[Ver demonstração](https://logoscoder.github.io/Logos/extras/wm-example/)
+[Ver demonstração](https://logoscoder.github.io/Logos/extras/wm-example/index.html)
 
 ![Demonstração](demonstracao.png)
 
